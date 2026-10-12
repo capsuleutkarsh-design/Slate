@@ -8,6 +8,28 @@ Get the latest setup from **[Releases](https://github.com/capsuleutkarsh-design/
 
 Website and guide: https://capsuleutkarsh-design.github.io/slate-vfx/
 
+## Screenshots
+
+**Home**
+
+![Home](screenshots/home.png)
+
+**Dashboard**
+
+![Dashboard](screenshots/dashboard.png)
+
+**Shot rename**
+
+![Shot rename](screenshots/rename.png)
+
+**Stock**
+
+![Stock](screenshots/stock.png)
+
+**Service desk**
+
+![Service desk](screenshots/service-desk.png)
+
 ## Licence
 
 Slate is free to use, made by Utkarsh Tripathi. It is not for sale. Please do not re-upload the setup or remove the author's name. The full licence is shown in the installer.
